@@ -1,0 +1,3 @@
+C:/Users/dumit/CLionProjects/ModelColocviu1V2/cmake-build-debug/CMakeFiles/ModelColocviu1V2.dir
+C:/Users/dumit/CLionProjects/ModelColocviu1V2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dumit/CLionProjects/ModelColocviu1V2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

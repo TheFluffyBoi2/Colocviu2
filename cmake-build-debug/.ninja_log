@@ -1,0 +1,11 @@
+# ninja log v5
+14	1422	7387940414431460	CMakeFiles/ModelColocviu1V2.dir/main.cpp.obj	c6d150b7f1ef0d91
+1753	2260	7387986662205882	ModelColocviu1V2.exe	f0fa43ffc00b1f0a
+113	1820	7387967391198167	CMakeFiles/ModelColocviu1V2.dir/Proba.cpp.obj	d9b18dc3bfa99155
+84	2444	7387967397721708	CMakeFiles/ModelColocviu1V2.dir/Maraton.cpp.obj	289731a5fc0d735d
+136	2071	7387967393161361	CMakeFiles/ModelColocviu1V2.dir/Sprint.cpp.obj	157ff258e1f4c6c5
+157	1897	7387967392179389	CMakeFiles/ModelColocviu1V2.dir/Cros.cpp.obj	cbdabb4c6f1940e9
+166	2194	7387967395032256	CMakeFiles/ModelColocviu1V2.dir/SemiMaraton.cpp.obj	69d5fcf9a2203522
+189	2561	7387967398502859	CMakeFiles/ModelColocviu1V2.dir/Concurent.cpp.obj	f8207cbc27b313b7
+8	1752	7387986657134945	CMakeFiles/ModelColocviu1V2.dir/Meniu.cpp.obj	a259ab2fa9901e35
+49	3273	7387984844533686	CMakeFiles/ModelColocviu1V2.dir/Admin.cpp.obj	4b9d044e26d4cfd5
